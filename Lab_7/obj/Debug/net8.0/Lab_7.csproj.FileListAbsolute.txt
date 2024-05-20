@@ -1,0 +1,14 @@
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\bin\Debug\net8.0\Lab_7.exe
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\bin\Debug\net8.0\Lab_7.deps.json
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\bin\Debug\net8.0\Lab_7.runtimeconfig.json
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\bin\Debug\net8.0\Lab_7.dll
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\bin\Debug\net8.0\Lab_7.pdb
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\obj\Debug\net8.0\Lab_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\obj\Debug\net8.0\Lab_7.AssemblyInfoInputs.cache
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\obj\Debug\net8.0\Lab_7.AssemblyInfo.cs
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\obj\Debug\net8.0\Lab_7.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\obj\Debug\net8.0\Lab_7.dll
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\obj\Debug\net8.0\refint\Lab_7.dll
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\obj\Debug\net8.0\Lab_7.pdb
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\obj\Debug\net8.0\Lab_7.genruntimeconfig.cache
+D:\Учеба\3 курс\2 семестр\Системы\Lab_7\Lab_7\obj\Debug\net8.0\ref\Lab_7.dll
